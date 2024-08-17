@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5831455-77aa-49aa-9584-17ea589978a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trilha-java-basico-desafio-poo.iml" afterDir="false" />
+    <list default="true" id="e5831455-77aa-49aa-9584-17ea589978a7" name="Changes" comment="Desafio concluído!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/claudiosultanio/trilha-java-basico-desafio-poo.git",
+    "accountId": "a202db89-2520-41ac-8a01-c7ca462bcd15"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -78,11 +74,35 @@
       <workItem from="1723868629875" duration="20000" />
       <workItem from="1723868661096" duration="303000" />
       <workItem from="1723868980852" duration="450000" />
-      <workItem from="1723869443366" duration="1128000" />
+      <workItem from="1723869443366" duration="2212000" />
     </task>
+    <task id="LOCAL-00001" summary="Desafio concluído!">
+      <option name="closed" value="true" />
+      <created>1723870776662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723870776662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio concluído!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio concluído!" />
   </component>
 </project>
